@@ -33,3 +33,5 @@ The model is trained on the Titanic dataset, which includes various features abo
 - Integrate more advanced machine learning models for improved accuracy.
 - Add data visualization for better insights.
 
+- Please download ngrok.com it will be very helpful while executing the code
+
